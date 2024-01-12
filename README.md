@@ -5,8 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpayalal&label=Profile%20views&color=0e75b6&style=flat" alt="mpayalal" /> </p>
 
-- 🌱 I’m currently learning about **cybersecurity and javascript.**
-
+- 🌱 I’m currently learning about **cybersecurity and JavaScript.**
+- 👨‍💻 You can see other projects I've worked in at [Mood Project](https://github.com/GianSz/Mood_P1) and [Kairos Logistics Project](https://github.com/miguelcg02/Kairos_logistics)
+- 📝 I worked as a code reviewer for the book [Python pour Débutants](https://www.amazon.com/dp/B0CLHBGBMP).
 - 📫 How to reach me **mpayalal@eafit.edu.co**
 
 <br>
